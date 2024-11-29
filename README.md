@@ -42,11 +42,11 @@ Validate the camera’s ability to withstand typical user conditions (water expo
 - Availability of testing resources, such as qualified personnel or specific test tools.
 - Environmental conditions such as extreme underwater pressure may not always be fully replicated in a controlled environment.
 
-##### 3. Test documentation
+#### 3. Test documentation
 #### Camera basic testing procedure
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/8cf31a92-0e02-4d1d-ab1e-66973d9d5657">
 
-#### Test Cases
+#### Test case documentation
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/92bff4cf-0e51-45e7-9788-064745754946">
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/34f3fe61-8993-438e-81cb-542ceaa5fce1">
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/9522b281-a574-4fd6-aecd-b1c830be942d">
