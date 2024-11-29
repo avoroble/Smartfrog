@@ -91,7 +91,7 @@ script: `create_files.py` - creates 10 files in the `tmp/` folder.
 ##### Pre-conditions for execution
 1. Python should be installed on the local computer.
 2. `archive_files.py`, `create_files.py` files should be downloaded to the working directory.
-##### Running procedure
+##### How to run
 1. Open the first terminal window and execute the following command: `archive_files.py`.
 2. The script will run in the background, waiting for 10 files to appear in the `tmp/` folder.
 3. Open the seccond terminal window and execute the following command: `create_files.py`.
